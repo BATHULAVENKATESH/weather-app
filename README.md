@@ -61,14 +61,9 @@ weather-app/
 │── screenshots/      # Folder for screenshots
 │── README.md         # Documentation
 
-👨‍💻 Author
+👨‍💻 Developed by
 Bathula Venkatesh
-
-🌐 LinkedIn
-
 📧 bathulavenkatesh774@gmail.com
-
-📂 GitHub
 
 📜 License
 This project is licensed under the MIT License — feel free to use and modify it.
