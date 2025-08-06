@@ -65,6 +65,10 @@ weather-app/
 Bathula Venkatesh
 📧 bathulavenkatesh774@gmail.com
 
+## 🌍 Live Demo
+The Weather App is deployed on Netlify.  
+👉 [Click here to view](https://imaginative-toffee-58a8d2.netlify.app/)
+
 📜 License
 This project is licensed under the MIT License — feel free to use and modify it.
 
